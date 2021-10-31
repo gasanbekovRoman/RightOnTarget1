@@ -48,6 +48,10 @@
                             <constraint firstItem="yo5-Rq-jOH" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="i1X-7m-SRA"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="label" destination="zYM-Xw-XVU" id="idy-jr-hnG"/>
+                        <outlet property="slider" destination="yo5-Rq-jOH" id="xsA-5C-Gl5"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
